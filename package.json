@@ -41,8 +41,9 @@
   "dependencies": {
     "@types/jest": "^26.0.23",
     "@types/systemjs": "^6.1.0",
-    "single-spa": "^5.9.3",
     "@types/webpack-env": "^1.16.0",
+    "express": "^4.17.1",
+    "single-spa": "^5.9.3",
     "single-spa-layout": "1.6.0"
   }
 }
